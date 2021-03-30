@@ -1,0 +1,14 @@
+2021-03-30 10:20:28,896  INFO [main] NewPatientRegisterTest:39 - running before method
+2021-03-30 10:20:29,603  INFO [main] NewPatientRegisterTest:60 - Started test method
+2021-03-30 10:21:10,240  INFO [main] NewPatientRegisterTest:39 - running before method
+2021-03-30 10:21:10,583  INFO [main] NewPatientRegisterTest:60 - Started test method
+2021-03-30 10:25:09,531  INFO [main] NewPatientRegisterTest:39 - running before method
+2021-03-30 10:25:09,536 ERROR [main] NewPatientRegisterTest:40 - Error
+2021-03-30 10:25:09,537 DEBUG [main] NewPatientRegisterTest:41 - Debug
+2021-03-30 10:25:09,540  WARN [main] NewPatientRegisterTest:42 - Warning
+2021-03-30 10:25:09,922  INFO [main] NewPatientRegisterTest:63 - Started test method
+2021-03-30 11:59:30,810  INFO [main] NewPatientRegisterTest:39 - running before method
+2021-03-30 11:59:30,814 ERROR [main] NewPatientRegisterTest:40 - Error
+2021-03-30 11:59:30,815 DEBUG [main] NewPatientRegisterTest:41 - Debug
+2021-03-30 11:59:30,815  WARN [main] NewPatientRegisterTest:42 - Warning
+2021-03-30 11:59:31,111  INFO [main] NewPatientRegisterTest:63 - Started test method

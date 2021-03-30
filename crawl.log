@@ -1,0 +1,6 @@
+ERROR	2021-03-30 12:24:45,656	0	com.athma.qa.testcases.NewPatientRegisterTest	[main]	Error
+ERROR	2021-03-30 12:47:32,852	0	com.athma.qa.testcases.NewPatientRegisterTest	[main]	Error
+ERROR	2021-03-30 12:48:07,356	34504	com.athma.qa.testcases.NewPatientRegisterTest	[main]	Error
+ERROR	2021-03-30 12:49:15,766	102914	com.athma.qa.testcases.NewPatientRegisterTest	[main]	Error
+ERROR	2021-03-30 12:49:56,511	143659	com.athma.qa.testcases.NewPatientRegisterTest	[main]	Error
+ERROR	2021-03-30 12:50:55,566	202714	com.athma.qa.testcases.NewPatientRegisterTest	[main]	Error
