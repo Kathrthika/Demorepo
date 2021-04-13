@@ -72,6 +72,7 @@ public class NewRegistrationPage extends TestBase {
 	public void enterFirstName(String patientfirstName) {
 		explicitWait(firstName);
 		firstName.sendKeys(patientfirstName);
+		System.out.println("Testing");
 	}
 	public void enterAge(String enterpatientAge) {
 		explicitWait(patientAge);
